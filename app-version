@@ -4,7 +4,7 @@
   "force_update": true,
   "use_app": false,
   "play_store_url": "https://play.google.com/store/apps/details?id=com.crystalbeds.africa",
-  "update_title": "New Version Available",
+  "update_title": "New Version Available!",
   "update_message": "A new version of Crystalbeds Africa is available with important updates. Please update to continue using the app.",
   "app_disabled_title": "Maintenance Mode",
   "app_disabled_message": "Crystalbeds Africa is currently undergoing scheduled maintenance. Please check back later."
