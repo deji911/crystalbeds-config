@@ -1,8 +1,11 @@
 {
-  "min_version": "1.0.8",
-  "latest_version": "1.0.8",
+  "min_version": "1.2.1",
+  "latest_version": "1.2.1",
   "force_update": true,
-  "use_app": false,
+  "use_app": true,
   "play_store_url": "https://play.google.com/store/apps/details?id=com.crystalbeds.africa",
-  "update_message": "A new version of Crystalbeds Africa is available with important updates. Please update to continue using the app."
+  "update_title": "New Version Available",
+  "update_message": "A new version of Crystalbeds Africa is available with important updates. Please update to continue using the app.",
+  "app_disabled_title": "Maintenance Mode",
+  "app_disabled_message": "Crystalbeds Africa is currently undergoing scheduled maintenance. Please check back later."
 }
